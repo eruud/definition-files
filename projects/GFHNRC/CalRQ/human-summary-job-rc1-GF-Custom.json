@@ -178,7 +178,7 @@
     "save_response": 1,
     "delete_if_successful": 0,
     "package_url": "https://github.com/eruud/gf.calorimeter.r",
-    "package_function": "process_cal_human",
+    "package_function": "process_cal_human_gf",
     "package_version": "master",
     "resource_path": "/github/MeiResearchLtd/pilr.dpu.r/R/pilr_dpu",
     "input_datasets": [
