@@ -1,6 +1,6 @@
 {
   "definition_type": "job",
-  "code": "calorimeter_human_summary_job_rc1_gf",
+  "code": "calorimeter_human_summary_job_rc1",
   "name": "Human CalRQ Summary v1.1 (GF Custom-2)",
   "version": 1,
   "description": "Compute summaries and generate report for CalRQ human studies.",
