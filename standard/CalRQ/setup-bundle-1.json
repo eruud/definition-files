@@ -2,7 +2,7 @@
    "definition_type":"bundle",
    "code":"calorimeter_bundle_002",
    "version":2,
-   "name":"Calorimeter Project Setup Bundle_2",
+   "name":"Calorimeter Project Setup Bundle 2",
    "description":"This component bundle adds the CalRQ instrument to a project, as well as the common file handlers, variables, processing jobs, and tools used in a calorimeter study.",
    "instruments":[  
       {  
@@ -182,6 +182,12 @@
                         "Push - Absolute"
                      ]
                   },
+				  {
+				  	"code" : "pilrhealth:calrq:expected",
+				  	"period" : null,
+				  	"epoch" : null,
+				  	"value" : ["Push - Corrected Derivative"]
+				  },
                   {  
                      "code":"pilrhealth:calrq:gas_type",
                      "period":null,
