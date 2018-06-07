@@ -8,7 +8,7 @@
     {
       "type": "double_setting",
       "code": "pilrhealth:calrq:weight_in",
-      "name": "Weight In (Kg)",
+      "name": "Weight In (Kg)",A
       "description": "Weight In (Kg)",
       "units" : "Kg",
       "value": 0,
